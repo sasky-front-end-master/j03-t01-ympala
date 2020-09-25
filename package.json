@@ -1,0 +1,14 @@
+{
+  "name": "j03-t01-ympala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tehtava.html",
+  "scripts": {
+    "test": "testcafe chrome:headless tehtava/tests/"
+  },
+  "author": "Pefo",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.9.1"
+  }
+}
