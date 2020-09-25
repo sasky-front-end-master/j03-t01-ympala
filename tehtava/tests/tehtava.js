@@ -1,6 +1,6 @@
 import { Selector } from 'testcafe';
 
-fixture `for-silmukka`
+fixture `funktio ympala`
     .page `../tehtava.html`;
 
 test('Tulostetaan vaadittu teksti', async t => {
