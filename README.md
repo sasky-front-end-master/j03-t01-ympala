@@ -4,7 +4,7 @@ Kirjoita ensin funktio pii(), joka palauttaa piin arvon, tämä sama funktio oli
 
 Tämän jälkeen kirjoita funktio ympala(), joka saa parametrina ympyrän säteen pituuden ja palauttaa ympyrän pinta-alan. 
 
-Funktio käyttää hyväkseen funktiota pii() jonka kirjoitit aiemmin. Kirjoita myös pääohjelma, jossa käytät näitä funktioita seuraavalla tavalla:
+Kirjoita myös pääohjelma, jossa käytät näitä funktioita seuraavalla tavalla:
 
 * pääohjelma kutsuu funktiota ympala() parametrina 1 ja tulostaa palautetun pinta-alan
 * pääohjelma kutsuu funktiota ympala() parametrina 4.5 ja tulostaa palautetun pinta-alan
